@@ -1,0 +1,43 @@
+html {
+    font-family: 'Fira Sans Condensed', sans-serif;
+}
+
+body {
+    background-color: beige;
+}
+
+h3, h1 {
+    color:rgb(90, 75, 36);
+    text-align: center;
+}
+
+p {
+    text-align: center;
+}
+
+img {
+    display: block;
+    width: 200px;
+    margin: 50px auto;
+    border-radius: 100px;
+}
+
+#content {
+    width: 40%;
+    margin: 0% auto;
+}
+
+#text {
+    width: 50%;
+    padding: 5px 20px;
+    margin: 0% auto;
+    background-color: rgb(255, 255, 209);
+    border-width: 10px;
+    border-style: solid;
+    border-color: rgb(230, 192, 96);
+    border-radius: 20px;
+}
+
+#links {
+    color:rgb(90, 75, 36);
+}
