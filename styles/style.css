@@ -29,7 +29,6 @@ img {
 }
 
 #text {
-    min-width: 150px;
     width: 50%;
     padding: 5px 20px;
     margin: 0% auto;
@@ -43,3 +42,13 @@ img {
 #links {
     color:rgb(90, 75, 36);
 }
+
+@media only screen and (max-width: 500px) {
+    #content {
+        width: 300px;
+    }
+
+    #text {
+        width: 80%;
+    }
+  }
